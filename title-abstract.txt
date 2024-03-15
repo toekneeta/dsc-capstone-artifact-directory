@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Transforming the UCSD Course Search Experience with Semantic Search
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+In the fast-paced academic environment at the University of California, San Diego (UCSD), students often face challenges in regards to finding courses that align with their interests and academic needs due to the limitations of WebReg, the current course search system. WebReg's search application relies solely on exact matches of search queries to course titles, limiting the effectiveness of course discovery for students. This project introduces a novel semantic search engine designed specifically for UCSD courses, leveraging state-of-the-art embeddings to capture the context of the search queries and matching them with the most similar courses. Our approach not only addresses the flaws in the current search system, but also provides a more intuitive and efficient course search experience for UCSD students.
